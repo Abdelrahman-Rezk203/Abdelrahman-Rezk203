@@ -9,12 +9,9 @@
 💻 Backend .NET Developer with hands-on training in ASP.NET Core, Entity Framework, and SQL Server  
 🚀 Passionate about building scalable and maintainable web applications & REST APIs  
 🧠 Problem solver who enjoys writing clean code and learning new technologies  
-🤝 Love collaborating on projects and improving my skills every day  
-###
-
+🤝 Love collaborating on projects and improving my skills every day   
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
 ---
 
 ## 🛠 Tech Stack
