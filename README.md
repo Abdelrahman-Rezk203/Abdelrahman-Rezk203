@@ -15,8 +15,17 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs" width="40" />
-
+  <img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlserver" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=jira" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
 </div>
 
 
