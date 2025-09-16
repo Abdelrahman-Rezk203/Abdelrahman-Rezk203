@@ -65,7 +65,7 @@
 
 ---
 
-🚀 _Code. Learn. Improve. Repeat._
+> 🚀 _Code. Learn. Improve. Repeat._
 
 ---
 
