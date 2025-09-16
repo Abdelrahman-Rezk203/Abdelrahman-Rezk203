@@ -15,7 +15,7 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,postman,visualstudio,figma,jira,html,css&perline=11" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,postman,visualstudio,figma,jira,html,css&perline=11&size=48" />
 </div>
 
 
