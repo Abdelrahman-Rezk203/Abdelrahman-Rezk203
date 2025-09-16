@@ -15,13 +15,7 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,postman,visualstudio,figma,jira,html,css" />
-
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-0078D7?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
 </div>
 
 
