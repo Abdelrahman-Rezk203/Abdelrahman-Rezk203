@@ -15,17 +15,18 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sqlserver" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=jira" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50"/>
+  <img src="icons/csharp.svg" width="40"/>
+  <img src="icons/dotnet.svg" width="40"/>
+  <img src="icons/sqlserver.svg" width="40"/>
+  <img src="icons/git.svg" width="40"/>
+  <img src="icons/github.svg" width="40"/>
+  <img src="icons/postman.svg" width="40"/>
+  <img src="icons/visualstudio.svg" width="40"/>
+  <img src="icons/figma.svg" width="40"/>
+  <img src="icons/jira.svg" width="40"/>
+  <img src="icons/html5.svg" width="40"/>
+  <img src="icons/css3.svg" width="40"/>
+
 </div>
 
 
