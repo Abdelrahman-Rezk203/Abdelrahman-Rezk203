@@ -15,17 +15,13 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="https://cdn.simpleicons.org/csharp/239120" width="40"/>
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="40"/>
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="40"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="40"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40"/>
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="40"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/>
-  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40"/>
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
 </div>
 
 ---
