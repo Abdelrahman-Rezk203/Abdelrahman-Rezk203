@@ -15,20 +15,18 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="icons/csharp.svg" width="40"/>
-  <img src="icons/dotnet.svg" width="40"/>
-  <img src="icons/sqlserver.svg" width="40"/>
-  <img src="icons/git.svg" width="40"/>
-  <img src="icons/github.svg" width="40"/>
-  <img src="icons/postman.svg" width="40"/>
-  <img src="icons/visualstudio.svg" width="40"/>
-  <img src="icons/figma.svg" width="40"/>
-  <img src="icons/jira.svg" width="40"/>
-  <img src="icons/html5.svg" width="40"/>
-  <img src="icons/css3.svg" width="40"/>
-
+  <img src="https://cdn.simpleicons.org/csharp/239120" width="40"/>
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="40"/>
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="40"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40"/>
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="40"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="40"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40"/>
 </div>
-
 
 ---
 
