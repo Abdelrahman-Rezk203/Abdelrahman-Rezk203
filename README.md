@@ -11,12 +11,10 @@
 🧠 Problem solver who enjoys writing clean code and learning new technologies  
 🤝 Love collaborating on projects and improving my skills every day  
 
-📌 Motto: **⚡ Code. Learn. Improve. Repeat.**
-
 ---
 
 ## 🛠 Tech Stack
-<div align="left">
+<div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,11 +36,6 @@
 
 ---
 
-## 📌 Pinned Projects
-> 🚧 Coming soon... (Work in progress)
-
----
-
 ## 📊 GitHub Stats & Trophies
 
 <div align="center">
@@ -57,9 +50,26 @@
 
 ---
 
+## 🧩 Competitive Programming Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/abdorezk203)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abdorezk203)  
+[![VJudge](https://img.shields.io/badge/VJudge-1E90FF?style=for-the-badge&logo=virtualbox&logoColor=white)](https://vjudge.net/user/abdorezk203)
+
+---
+
+⚡ Code. Learn. Improve. Repeat.
+
+---
+
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-rezk)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdorezk203@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201093038686)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-rezk)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdorezk203@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201093038686)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/abdelrahman_2222q)
+
+---
+
+## 📌 Pinned Projects
+> 🚧 Coming soon... (Work in progress)
