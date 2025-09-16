@@ -47,8 +47,6 @@
 
 </div>
 
----
-
 ## 🧩 Competitive Programming Profiles
 <div align="center">
   
@@ -57,7 +55,6 @@
 [![VJudge](https://img.shields.io/badge/VJudge-1E90FF?style=for-the-badge&logo=virtualbox&logoColor=white)](https://vjudge.net/user/abdorezk203)
 
 </div>
----
 
 ## 📫 Connect with me
 <div align="center">
